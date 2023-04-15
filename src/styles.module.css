@@ -1,0 +1,34 @@
+/* add css module styles here (optional) */
+.primary{
+  background-color: rgb(65, 65, 214);
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+  margin: 20px;
+}
+.default{
+  background-color: white;
+  border: 1px solid black;
+  padding: 10px;
+  cursor: pointer;
+}
+.dashed{
+  background-color: white;
+  border: 1px dashed gray;
+  padding: 10px;
+  margin: 20px;
+  cursor: pointer;
+}
+.text{
+  background-color: white;
+  border: 0;
+  padding: 10px;
+  cursor: pointer;
+}
+.link{
+  background-color: white;
+  color: rgba(0, 0, 255, 0.694);
+  border: 0;
+  padding: 10px;
+  cursor: pointer;
+}
